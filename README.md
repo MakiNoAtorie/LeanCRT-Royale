@@ -86,7 +86,7 @@ The benchmarks came from a private D3D11 test harness. It compiles the FX files 
 
 ## Install
 
-1. Copy the contents of `Shaders/` into your ReShade shader search directory. This is usually `reshade-shaders/Shaders`.
+1. Download the zip from the [latest release](https://github.com/MakiNoAtorie/LeanCRT-Royale/releases/latest). Copy the contents of `Shaders/` into your ReShade shader search directory. This is usually `reshade-shaders/Shaders`.
 2. Reload the effects in ReShade and enable `LeanCRT`.
 3. Disable the original CRT Royale technique when you compare the two shaders. Both effects can load together.
 4. Set the content size and the Royale controls as usual. Enable Performance Mode after you edit the settings.
